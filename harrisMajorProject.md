@@ -1,5 +1,8 @@
 # Harris' Major Project
 
+[![hackmd-github-sync-badge](https://hackmd.io/dcdr-c1NSUCjfA5VPqGOYQ/badge)](https://hackmd.io/dcdr-c1NSUCjfA5VPqGOYQ)
+
+
 ## project
 select project tools e.g. Wrike, Excel (import into Word)
 develop project plan
